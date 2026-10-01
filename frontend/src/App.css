@@ -1,0 +1,7 @@
+body, #root {
+  background-color: #030507;
+  color: #ffffff;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
